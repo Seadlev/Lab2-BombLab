@@ -157,12 +157,12 @@ xor eax,0x2227
 
 `make test` 全部通过。
 
-![](/ics/Lab2-BombLab/images/image1.png)
-![](/ics/Lab2-BombLab/images/image2.png)
+![](images/image1.png)
+![](images/image2.png)
 
 公开列表之外 `seed = 43` 时全部通过。
 
-![](/ics/Lab2-BombLab/images/image3.png)
+![](images/image3.png)
 
 ## 四、参考资料与工具使用说明
 
